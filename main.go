@@ -1,4 +1,4 @@
-package main
+package ArrayGenerator
 
 import (
 	"math/rand"
